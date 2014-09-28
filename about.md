@@ -15,7 +15,6 @@ title: About
 #The skills I am still developing
 * C
 * C++
-* perl
 * ruby
 
 #Miscellaneous
