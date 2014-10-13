@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-#The skills I am proficcient in
+#The skills I am proficient in
 * Arduino programming
 * Java
 * Python
