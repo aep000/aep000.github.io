@@ -11,7 +11,6 @@ title: About
 * html/css
 * Javascript
 * SQL
-* Wasting Time on Reddit
 
 #The skills I am still developing
 * C
